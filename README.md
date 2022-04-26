@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi 👋 My name is Riccardo Ruocco ================================  \_ --  I love technology because the more it progresses, the more possibilities it offers people. Since I was a child, I have always wanted to be part of this progress, which is why I decided to become an engineer. I like the idea of giving people new possibilities and helping them to do new things.  * ✉️  You can contact me at [ruocco.rf@gmail.com](mailto:ruocco.rf@gmail.com)
+Hi 👋 My name is Riccardo Ruocco ================================  I love technology because the more it progresses, the more possibilities it offers people. Since I was a child, I have always wanted to be part of this progress, which is why I decided to become an engineer. I like the idea of giving people new possibilities and helping them to do new things.  * ✉️  You can contact me at [ruocco.rf@gmail.com](mailto:ruocco.rf@gmail.com)
 
 ### Skills
 
